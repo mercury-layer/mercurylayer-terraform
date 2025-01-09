@@ -18,7 +18,7 @@ Before running this project, ensure the following are installed and set up:
 1. Clone this repository to your local machine:
 
   ```bash
-   git clone https://github.com/commerceblock/terraform-mercurylayer.git terraform-mercurylayer
+   git clone https://github.com/mercury-layer/mercurylayer-terraform terraform-mercurylayer
    cd terraform-mercurylayer
    ```
 
