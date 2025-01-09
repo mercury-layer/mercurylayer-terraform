@@ -42,7 +42,7 @@ apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin do
 
 # Clone the mercury layer repo
 echo "Cloning the mercury layer repo..."
-git clone https://github.com/commerceblock/mercurylayer.git /mercurylayer
+git clone https://github.com/mercury-layer/mercurylayer /mercurylayer
 
 # Run docker-compose-sim.yml
 echo "Running docker-compose-sim.yml..."
